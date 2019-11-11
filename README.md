@@ -1,4 +1,4 @@
-# Kording lab (Bayesian Behavior Lab) page
+# Surface haptics lab (Michael Wiertlewski)
 
 
 This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
@@ -34,7 +34,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 ## How to add posts
 
 
-- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. 
+- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo.
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
@@ -55,7 +55,7 @@ joined: 2014
 ---
 ```
 
-If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. 
+If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page.
 For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
 
 ## Add new publications
