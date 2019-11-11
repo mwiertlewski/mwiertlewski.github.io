@@ -1,0 +1,38 @@
+---
+layout: default
+title: Surface Haptics Lab
+subtitle: TU delft
+description:
+---
+<!-- Image Showcases -->
+<section class="showcase" style="padding-top: 3em;">
+  <div class="container-fluid p-0">
+    <div class="row no-gutters" style="color: white; background-color: black;">
+      <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('images/landing/landingPoster.jpg');"></div>
+      <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+        <h2 style="color: white ">About</h2>
+        <p class="mb-0">The {{page.title}} studies the mechanics linked to tactile perception. Our approach lies at the intersection
+          of the observation of tactile interaction with high precision devices, the
+          design of haptic interfaces for reproducing realistic tactile sensations
+          and the psychophysical study of human perception.
+          </p>
+        <p> You can see some of our ongoing projects <a href="{{ site.baseurl }}/research/">here</a></p>
+        <p>This group is part of the <a href="https://delfthapticslab.nl/">Delft Haptics lab</a> of the <a href="">Cognitive Robotics Department</a> at the <a href="https://www.tudelft.nl/en/">TU Delft</a></p>
+      </div>
+    </div>
+    <p style="padding: 1rem;"></p>
+    <div class="row no-gutters">
+      <div class="col-lg-6 my-auto showcase-news">
+          <h2>Recent News</h2>
+          <p> </p>
+            {% for news in site.data.news limit:5%}
+              <p style="padding-bottom: .1em;"><font color="#268bd2"> {{ news.date }}</font> {{ news.description }}</p>
+            {% endfor %}
+          <br>
+          <a href="{{ site.baseurl }}/news/"> show more </a>
+          <p></p>
+        </div>
+        <div class="col-lg-6 text-white showcase-img" style="background-image: url('images/landing/landingImg1.jpg');"></div>
+    </div>
+  </div>
+</section>
