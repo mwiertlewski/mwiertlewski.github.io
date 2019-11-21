@@ -3,11 +3,11 @@ title: Research
 permalink: /research/
 ---
 
-### Big picture
+## Big picture
 Our group studies the mechanics linked to tactile perception. Our approach lies at the intersection of the observation of tactile interaction with high precision devices, the design of haptic interfaces for reproducing realistic tactile sensations and the psychophysical study of human perception.
 
-
-### Projects
+<hr>
+## Projects
 <section class="showcase">
 <div class="container-fluid p-0">
 
@@ -34,3 +34,12 @@ Our group studies the mechanics linked to tactile perception. Our approach lies 
 {% endfor %}
 </div>
 </section>
+
+<hr>
+## Sponsors
+
+The lab is generously supported by public and private funding.
+ - Agence Nationale de la Recherche Jeune Chercheurs. Project Phase 2016/2020
+ - Agence Nationale de la Recherche Collaborative project with [Sinan Haliyo](http://www.isir.upmc.fr/?op=view_profil&id=18) (ISIR/Sorbonne Université). Project IOTA 2016/2020
+ - Peugeot-Citroen (PSA Group) 2015/2020
+ - 4TU Soft Robotics projects 2019/2022

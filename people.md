@@ -10,23 +10,6 @@ permalink: /people/
 
 {% for item in people_array %}
 
-<!--
-<div class="pos_header">
-{% if item == 'postdoc' %}
-<h4>Postdoctoral Fellows</h4>
- {% elsif item == 'pi' %}
-<h4>Principal Investigator</h4>
- {% elsif item == 'gradstudent' %}
-<h4>Graduate Students</h4>
- {% elsif item == 'visiting' %}
-<h4>Visiting Scholars</h4>
- {% elsif item == 'others' %}
-<h4>Honorary Members</h4>
- {% elsif item == 'alumni' %}
-<h4>Alumni</h4>
-{% endif %}
-</div>
--->
 
 <div class="content list people">
   {% for profile in people_sorted %}
