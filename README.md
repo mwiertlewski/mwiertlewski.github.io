@@ -9,7 +9,9 @@ The pages are formatted using the super easy Markdown language. A useful cheatsh
 
 You can add a description of your research interest and CV in the `_people` folder. The filename should be the `<firstname>_<lastname>.md`. The header provides the informations that are used throughout the website and should be completed first.
 
-`name: Michaël Wiertlewski
+```
+---
+name: Michaël Wiertlewski
 position: pi
 avatar: michael-wiertlewski.jpg
 gscholar: https://scholar.google.com/citations?user=7-gxrtEAAAAJ
@@ -22,7 +24,8 @@ address:
   - Room F-2-360
   - Mekelweg 2
   - 2628 CD Delft, The Netherlands
----`
+---
+```
 
 Pictures live in the `images/people/` folder, the cv in the `pdf/cv/` folder and you can choose your position from 4 categories `postdoc`, `phdstudent`,`master`, `visiting`, `others`.
 
@@ -30,7 +33,8 @@ Pictures live in the `images/people/` folder, the cv in the `pdf/cv/` folder and
 
 Right now each publication is an independent post. To add a publication, create a file in the `_posts/` folder with the filename `YYYY-MM-DD-title.md`.  Each file should have a header in the like of:
 
-`---
+```
+---
 title: Sensing the Frictional State of a Robotic Skin via Subtractive Color Mixing
 categories: publications
 authors: X. Lin, M. Wiertlewski
@@ -41,7 +45,8 @@ urlpaper: https://ieeexplore.ieee.org/document/8613793/
 pdf: pdf/pub/2019-XL-MW-RAL.pdf
 note: Best paper award at ICRA's workshop on Soft Haptics
 image: images/pub/IMG_0172.jpeg
----`
+---
+```
 
 The categories tag should be left to `publications`. A poster image should be provided and put in `images/pub/`. A author's copy of the manuscript can be placed in `pdf/pub/`
 
@@ -54,7 +59,7 @@ title: Interaction Design
 subtitle: We study how to create compelling sensations using surface haptics
 image: interaction.jpg
 ---
-`
+````
 
 A description with possibly more pictures / video should follow the frontmatter. Markdown is also the formatting language of choice. 
 
