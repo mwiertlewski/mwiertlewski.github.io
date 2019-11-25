@@ -29,9 +29,9 @@ permalink: /people/
         {% elsif profile.position == "postdoc" %}
             PostDoc
         {% elsif profile.position == "phdstudent" %}
-            PhD Students
+            PhD student
         {% elsif profile.position == "master" %}
-            Master Students
+            Master student
         {% else %}
           {{profile.position}}
         {% endif %}
