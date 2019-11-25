@@ -1,6 +1,6 @@
 ---
 name: Laurence Willemet
-position: PhD student
+position: phdstudent
 avatar: laurence-willemet.jpg
 email: laurence.willemet@univ-amu.fr
 linkedin: https://www.linkedin.com/in/laurence-willemet-679a1310a/
