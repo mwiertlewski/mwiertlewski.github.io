@@ -1,6 +1,6 @@
 ---
 name: John Doe
-position: gradstudent
+position: phdstudent
 gscholar: https://scholar.google.com/citations?user=7-gxrtEAAAAJ
 email: m.wiertlewski@tudelft.nl
 linkedin: https://www.linkedin.com/in/michaël-wiertlewski-68300221/

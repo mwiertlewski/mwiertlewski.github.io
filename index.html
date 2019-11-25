@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Surface Haptics Lab
+title: THE Lab
 subtitle: TU delft
 description:
 ---
@@ -11,12 +11,10 @@ description:
       <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('{{ site.baseurl }}/images/landing/landingPoster.jpg');"></div>
       <div class="col-lg-6 order-lg-1 my-auto showcase-text">
         <h2 style="color: white ">About</h2>
-        <p class="mb-0">The {{page.title}} studies the mechanics linked to tactile perception. Our approach lies at the intersection
-          of the observation of tactile interaction with high precision devices, the
-          design of haptic interfaces for reproducing realistic tactile sensations
-          and the psychophysical study of human perception.
+        <p class="mb-0">
+          Our group is intersted in finding out how the contact between soft or biological materials on various surfaces can be monitored and controlled. We develop instruments, devices and methods to measure friction when object are simply put in contact or even sliding over random surface. The output of our studies drive the development of two main applications. The first one is the design of soft robotics sensors that can monitor the nature of the object state of sliding and grip when grasping objects. And the second one is surface haptics device which are able to change in real time the frictional condition on a fingertip and creates compelling sensations of texture and shape.
           </p>
-        <p> You can see some of our ongoing projects <a href="{{ site.baseurl }}/research/">here</a></p>
+        <p> You learn more about some of our ongoing projects <a href="{{ site.baseurl }}/research/">here</a></p>
         <p>This group is part of the <a href="https://delfthapticslab.nl/">Delft Haptics lab</a> of the <a href="">Cognitive Robotics Department</a> at the <a href="https://www.tudelft.nl/en/">TU Delft</a></p>
       </div>
     </div>
@@ -26,7 +24,7 @@ description:
           <h2>Recent News</h2>
           <p> </p>
             {% for news in site.data.news limit:5%}
-              <p style="padding-bottom: .1em;"><font color="#268bd2"> {{ news.date }}</font> {{ news.description }}</p>
+              <p style="padding-bottom: .1em;"><font color="#268bd2"> {{ news.date }}</font> - {{ news.description | markdownify | remove: '<p>' | remove: '</p>'  }}</p>
             {% endfor %}
           <br>
           <a href="{{ site.baseurl }}/news/"> show more </a>

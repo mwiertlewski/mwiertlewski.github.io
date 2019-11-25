@@ -8,7 +8,7 @@ permalink: /news/
 <p></p>
 
 {% for news in site.data.news %}
-  <p>    <font color="#268bd2"> {{ news.date }}</font> {{ news.description }}
+  <p> <font color="#268bd2"> {{ news.date }}</font> - {{ news.description | markdownify | remove: '<p>' | remove: '</p>'  }}
   <br>
   </p>
 {% endfor %}
