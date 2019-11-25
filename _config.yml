@@ -3,7 +3,7 @@
 # # # # # # # # # # # # # #
 
 # Basic
-name:               "Surface Haptics Lab"
+name:               "Human-Robot Interface Lab"
 title:              "Michael Wiertlewski"
 description: >- # this means to ignore newlines until "baseurl:"
   Everyday we touch a multitude of surfaces surrounding us.
