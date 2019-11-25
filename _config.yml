@@ -72,13 +72,3 @@ collections:
   people:
     output: true
     permalink: /people/:title/index.html
-
-
-plugins: ['jekyll/scholar']
-
-
-scholar:
-   source: ./_bibliography
-   style: apa
-   sort_by: year,month
-   bibliography_template: bib
