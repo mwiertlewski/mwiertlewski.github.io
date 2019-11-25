@@ -12,11 +12,11 @@ layout: default
       <h3 class="page-title">Contact</h3>
       <p style="margin-bottom: 2em;"></p>
       <p>
-        <i class="fa fa-envelope-o"></i> <a href="mailto:{{page.email}}">{{page.email}}</a><br>
-        <i class="fa fa-linkedin-square"></i> <a href="{{page.linkedin}}">Linkedin</a><br>
-        <i class="ai ai-google-scholar-square"></i> <a href="{{page.gscholar}}">Google Scholar</a> <br>
-        <i class="ai ai-researchgate-square"></i> <a href="{{page.researchgate}}">ResearchGate</a> <br>
-        <i class="fa fa-graduation-cap"></i> <a href="{{site.baseurl}}/pdf/cv/{{page.cv}}">CV</a> <br>
+        {% if page.email %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{page.email}}">{{page.email}}</a><br> {% endif %}
+        {% if page.linkedin %}<i class="fa fa-linkedin-square"></i> <a href="{{page.linkedin}}">Linkedin</a><br>{% endif %}
+        {% if page.gscholar %}<i class="ai ai-google-scholar-square"></i> <a href="{{page.gscholar}}">Google Scholar</a> <br>{% endif %}
+        {% if page.researchgate %}<i class="ai ai-researchgate-square"></i> <a href="{{page.researchgate}}">ResearchGate</a> <br>{% endif %}
+        {% if page.cv %}<i class="fa fa-graduation-cap"></i> <a href="{{site.baseurl}}/pdf/cv/{{page.cv}}">CV</a> <br>{% endif %}
       </p>
       <p> {% for addressline in page.address %}
             {% if forloop.first %}

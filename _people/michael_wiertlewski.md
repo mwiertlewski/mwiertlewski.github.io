@@ -17,8 +17,8 @@ address:
 
 ### Research
 
-Michael Wiertlewski is interested in understanding how humans and robots use their sense of touch to perceive and manipulate their environment. In particular, he is interested in the mechanic that underpins the perception of frictional properties and interaction. Over the years, he has developed and built a variety of haptic interfaces, robotic tactile sensors and experimental setup to investigate the role of friction in touch.  
-He now leads the surface haptics lab at TU Delft.
+Michael Wiertlewski is interested in understanding how humans and robots use their sense of touch to perceive and manipulate their environment. In particular, he studies in the mechanic that underpins the perception of frictional properties and interaction. Over the years, he has developed and built a variety of haptic interfaces, robotic tactile sensors and experimental setup to investigate the role of friction in touch.  
+He now leads the Surface Haptics lab at TU Delft.
 
 ### Bio
 
