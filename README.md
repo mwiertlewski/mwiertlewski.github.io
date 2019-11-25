@@ -53,7 +53,9 @@ The categories tag should be left to `publications`. A poster image should be pr
 ## Add project
 
 The project pages follow the same structures that the publications. To add a new project, create a page in the `_posts` folder with the filename `YYYY-MM-DD-title.md` including the following frontmatter:
-```---
+
+```
+---
 categories: research
 title: Interaction Design
 subtitle: We study how to create compelling sensations using surface haptics
@@ -61,7 +63,7 @@ image: interaction.jpg
 ---
 ```
 
-A description with possibly more pictures / video should follow the frontmatter. Markdown is also the formatting language of choice. 
+A description with possibly more pictures / video should follow the frontmatter. Markdown is also the formatting language of choice.
 
 ## Add news
 
