@@ -1,6 +1,6 @@
 ---
 name: Felix Roël
-position: MSc Student
+position: master
 avatar: felix-roel.jpg
 gscholar: 
 email: flxroel@gmail.com
