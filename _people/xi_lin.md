@@ -1,6 +1,6 @@
 ---
 name: Xi Lin
-position: PhD Student
+position: phdstudent
 avatar: xi-lin.jpg
 gscholar: https://scholar.google.com/citations?user=o4D73RMAAAAJ
 email: x.lin-3@tudelft.nl

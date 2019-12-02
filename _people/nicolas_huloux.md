@@ -1,14 +1,14 @@
 ---
 name: Nicolas Huloux
-position: Ph.D Student
+position: phdstudent
 avatar: nicolas_huloux.png
 gscholar: https://scholar.google.com/citations?user=u6ZxRoUAAAAJ&hl=fr
 email: nicolas.huloux@univ-amu.fr
 linkedin: https://www.linkedin.com/in/nicolas-huloux-1bb7bb9a/
 researchgate: https://www.researchgate.net/profile/Nicolas_Huloux
-cv: 
+cv:
 address:
-  - 171 Avenue de Luminy, 
+  - 171 Avenue de Luminy,
   - 13009 Marseille, France
 ---
 

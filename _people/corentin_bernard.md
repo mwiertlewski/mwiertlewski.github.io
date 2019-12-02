@@ -1,6 +1,6 @@
 ---
 name: Corentin Bernard
-position: PhD Studend
+position: phdstudent
 avatar: corentin-bernard.jpg
 gscholar: https://scholar.google.com/citations?user=WPYER6YAAAAJ&hl=fr&oi=ao
 email: bernard@prism.cnrs.fr
