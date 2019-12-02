@@ -1,7 +1,7 @@
 ---
 name: Jocelyn Monnoyer
 position: PSA Research Engineer, Ph.D Student
-avatar: jocelyn-monnoyer.jpg
+avatar: jocelyn-monnoyer.JPG
 gscholar: https://scholar.google.com/citations?user=lXbxGYcAAAAJ&hl=fr
 email: jocelyn.monnoyer@mpsa.com
 linkedin: https://www.linkedin.com/in/jocelyn-monnoyer-360b71100/
