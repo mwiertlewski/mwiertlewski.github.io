@@ -16,7 +16,7 @@ permalink: /people/
     <div class="list-item-people">
       <p class="list-post-title">
         {% if profile.avatar %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img   style="border-radius: 50%;" width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+        <a href="{{ site.baseurl }}{{ profile.url }}"><img   style="border-radius: 50%; width=200" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
         {% else %}
         <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="https://www.speakingtigerbooks.com/wp-content/uploads/2018/07/no-avatar.jpg"></a>
         {% endif %}
