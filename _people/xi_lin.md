@@ -17,7 +17,7 @@ address:
 
 ### Research
 
-Xi Lin's research interests focuses on robotic tactile sensors and bio-inspired control of grasp. She developped a camera based soft tactile sensor using the color mixing principle to estimate the frictional information, 3d forces and deformations due to the contact between the sensor and the object.
+Xi Lin's research interests focuses on robotic tactile sensors and bio-inspired control of grasp. She developed a camera based soft tactile sensor using the color mixing principle to estimate the frictional information, 3d forces and deformations due to the contact between the sensor and the object.
 
 
 ### Bio
