@@ -6,10 +6,9 @@ permalink: /people/
 {% assign people_sorted = (site.people | sort: 'joined' %}
 <!--{% assign people_array = "pi|gradstudent|alumni" | split: "|" %}-->
 
-{% assign people_array = "pi|postdoc|phdstudent|master|visiting|others|alumni" | split: "|" %}
+{% assign people_array = "pi|postdoc|phdstudent|master|visiting" | split: "|" %}
 
 {% for item in people_array %}
-
 
 <div class="content list people">
   {% for profile in people_sorted %}
@@ -17,7 +16,7 @@ permalink: /people/
     <div class="list-item-people">
       <p class="list-post-title">
         {% if profile.avatar %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img   style="border-radius: 50%;" width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+        <a href="{{ site.baseurl }}{{ profile.url }}"><img   style="border-radius: 50%; width=200" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
         {% else %}
         <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="https://www.speakingtigerbooks.com/wp-content/uploads/2018/07/no-avatar.jpg"></a>
         {% endif %}
