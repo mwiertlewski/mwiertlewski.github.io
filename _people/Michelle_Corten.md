@@ -1,12 +1,12 @@
 ---
 name: Michelle Corten
-position: Master student
+position: master
 avatar: Michelle.jpg
-gscholar: 
+gscholar:
 email: mcorten@tudelft.nl
 linkedin: https://www.linkedin.com/in/michelle-corten/
-researchgate: 
-cv: 
+researchgate:
+cv:
 address:
 ---
 
@@ -15,4 +15,3 @@ address:
 
 
 ### Bio
-
