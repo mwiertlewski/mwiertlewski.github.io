@@ -28,6 +28,7 @@ address:
 ```
 
 Pictures live in the `images/people/` folder, the cv in the `pdf/cv/` folder and you can choose your position from 4 categories `postdoc`, `phdstudent`,`master`, `visiting`, `others`.
+For a proper rendering, the image should be 1x1 aspect ratio with less than 400px wide.
 
 ## Add publications
 
@@ -71,4 +72,4 @@ Short news (one line) are display on the frontpage. You can add your own news by
 
 ## Acknowledgements
 
-The structure of the website is heavily influenced by the [Kording lab page](http://kordinglab.com/) with a twist of [Bootstrap 4.0](https://getbootstrap.com/).
+The structure of the website is made with Jekyll and heavily influenced by the [Kording lab page](http://kordinglab.com/) with a twist of [Bootstrap 4.0](https://getbootstrap.com/).
