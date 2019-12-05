@@ -1,6 +1,6 @@
 ---
 name: Hugo Maillard
-position: Guest Researcher
+position: master
 avatar: hugo_maillard.jpg
 email: H.L.P.Maillard@tudelft.nl
 address:
