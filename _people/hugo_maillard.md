@@ -1,7 +1,7 @@
 ---
 name: Hugo Maillard
 position: Guest Researcher
-avatar: 
+avatar: hugo_maillard.jpg
 email: H.L.P.Maillard@tudelft.nl
 address:
   - Department of Cognitive Robotics
