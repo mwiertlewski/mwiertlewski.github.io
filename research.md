@@ -36,10 +36,11 @@ Our group studies the mechanics linked to tactile perception. Our approach lies 
 </section>
 
 <hr>
+
 ## Sponsors
 
 The lab is generously supported by public and private funding.
  - Agence Nationale de la Recherche Jeune Chercheurs. Project Phase 2016/2020
- - Agence Nationale de la Recherche Collaborative project with [Sinan Haliyo](http://www.isir.upmc.fr/?op=view_profil&id=18) (ISIR/Sorbonne Université). Project IOTA 2016/2020
+ - Agence Nationale de la Recherche Collaborative project with [Sinan Haliyo](http://www.isir.upmc.fr/?op=view_profil&id=18) (ISIR/Sorbonne Université). Project IOTA 2017/2020
  - Peugeot-Citroen (PSA Group) 2015/2020
- - 4TU Soft Robotics projects 2019/2022
+ - 4TU Soft Robotics project 2019/2022
