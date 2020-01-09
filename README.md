@@ -1,7 +1,7 @@
-# Surface haptics lab (Michael Wiertlewski)
+# Mechanical Intelligence Lab (Michael Wiertlewski)
 
 The website uses Jekyll and Github pages to provide custom content. You can download the structure and play with it as you'd like.
-The pages, project and publications can directly be added to Github by navigating to the right folder and then creating a `New file` with the right structure (see below) and the right filename. Once the file is saved it will automatically update the repo and the website (it might take few minutes).
+The pages, project and publications can directly be added to Github by navigating to the relevant folder and then creating a `New file` with the right structure (see below) and the right filename. Once the file is saved it will automatically update the repository and the website (it might take few minutes).
 
 The pages are formatted using the super easy Markdown language. A useful cheatsheet showing what can be done with Markdown can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -72,4 +72,4 @@ Short news (one line) are display on the frontpage. You can add your own news by
 
 ## Acknowledgements
 
-The structure of the website is made with Jekyll and heavily influenced by the [Kording lab page](http://kordinglab.com/) with a twist of [Bootstrap 4.0](https://getbootstrap.com/).
+The structure of the website is made with Jekyll and heavily influenced by the [Kording lab page](http://kordinglab.com/) with a twist of [Bootstrap](https://getbootstrap.com/).
