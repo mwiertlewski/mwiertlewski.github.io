@@ -34,7 +34,7 @@ nav:
   - name:           "research"
     href:           "/research"
   - name:           "publications"
-    href:           "/publication"
+    href:           "/publications"
   - name:           "people"
     href:           "/people"
 #  - name:           "blog"

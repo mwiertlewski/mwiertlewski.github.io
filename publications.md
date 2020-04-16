@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /publication/
+permalink: /publications/
 ---
 
 <h2>{{page.title}}</h2>
