@@ -19,6 +19,6 @@ Corentin Bernard is interested in understanding how humans perceive haptic feedb
 
 
 ### Bio
-He is a graduate of the Ecole Centrale de Marseille and holds a master's degree in acoustics. He has been a doctoral student since 2018 in the PSA group and two laboratories at the University of Aix-Marseille: the Perception, Representations, Image, Sound and Music Laboratory (PRISM) and the Institute of Movement Sciences (ISM).
+He graduated from the Ecole Centrale de Marseille and holds a master's degree in acoustics. He has been a doctoral student since 2018 as part as a collaboration between PSA group, the Perception, Representations, Image, Sound and Music Laboratory (PRISM) and the Institute of Movement Sciences (ISM) of the Aix-Marseille Université.
 
 <hr>
