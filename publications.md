@@ -5,35 +5,35 @@ permalink: /publications/
 
 <h2>{{page.title}}</h2>
 <br>
-{% assign currentyear = 2019 %}
+{% assign currentyear = 2020 %}
 
 {% for year in (2010..currentyear) reversed %}
 <div class="content list">
 <h4>{{year}}</h4>
-  {% for post in site.posts %}
-    {% if post.categories contains 'publications' and post.year == year%}
+  {% for post in site.data.pub %}
+    {% if post.year == year%}
     <div class="list-item">
     {% if post.image %}
       <a href="{{site.baseurl}}/{{post.pdf}}">
        <img src="{{site.baseurl}}/{{post.image}}" class="responsive-pub"
           alt="{{post.title}}" >
       </a>
-    {% else%}
-     {% endif %}
-        <p class="list-post-title" >
-        {{ post.authors }} ({{ post.year }})
-        {% if post.urlpaper %}
-          <a href="{{post.urlpaper}}" style="color: #337cbb">{{ post.title }}</a>.
-        {% else %}
-          {{ post.title }}.
-        {% endif %}
-         <b>{{ post.journal }}.</b> {{post.pages}}.
-         {% if post.pdf %}<a href="{{site.baseurl}}/{{post.pdf}}" style="color: #337cbb"><b>[PDF]</b></a>{% endif %}
-         {% if post.note %} <i style="color: #337cbb"> ({{post.note}}) </i> {% endif %}
-        </p>
-        <br style="clear:both" />
+    {%endif%}
+    <p class="list-post-title" >
+          {{ post.authors }} ({{ post.year }})
+          {% if post.urlpaper %}
+            <a href="{{post.urlpaper}}" style="color: #337cbb">{{ post.title }}</a>.
+          {% else %}
+            {{ post.title }}.
+          {% endif %}
+           <b>{{ post.journal }}.</b> {{post.pages}}.
+           {% if post.pdf %}<a href="{{site.baseurl}}/{{post.pdf}}" style="color: #337cbb"><b>[PDF]</b></a>{% endif %}
+           {% if post.note %} <i style="color: #337cbb"> ({{post.note}}) </i> {% endif %}
+    </p>
+    <br style="clear:both" />
     </div>
-    {% endif %}
+
+    {% endif%}
   {% endfor %}
 </div><br>
 {% endfor %}

@@ -1,4 +1,4 @@
-# Mechanical Intelligence Lab (Michael Wiertlewski)
+# Michael Wiertlewski's Lab 
 
 The website uses Jekyll and Github pages to provide custom content. You can download the structure and play with it as you'd like.
 The pages, project and publications can directly be added to Github by navigating to the relevant folder and then creating a `New file` with the right structure (see below) and the right filename. Once the file is saved it will automatically update the repository and the website (it might take few minutes).

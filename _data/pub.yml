@@ -1,4 +1,18 @@
-- title: 
+- title: Curvature sensing with a spherical tactile sensor using the color-interference of a marker array
+  authors: X. Lin, L. Willemet, A. Bailleul, M. Wiertlewski
+  journal: "In proc. ICRA 2020"
+  year: 2020
+  pdf: pdf/pub/2020-XL-AB-MW.pdf
+  image: images/pub/TactileSensorICRA.png
+
+- title: Detection of friction-modulated textures is limited by vibrotactile sensitivity
+  authors: C. Bernard, S. Ystad, J. Monnoyer, M. Wiertlewski
+  journal: IEEE Transactions on Haptics
+  year: 2020
+  pages: 1 - 1
+  urlpaper: https://ieeexplore.ieee.org/document/9057394/
+  image: images/pub/SetupCorentin.jpg
+  pdf: pdf/pub/2020-CB-SY-JM-MW.pdf
 
 - title: Sensing the Frictional State of a Robotic Skin via Subtractive Color Mixing
   authors: X. Lin, M. Wiertlewski
@@ -9,6 +23,22 @@
   pdf: pdf/pub/2019-XL-MW-RAL.pdf
   note: Best paper award at ICRA's workshop on Soft Haptics
   image: images/pub/TactileSensorXi.jpg
+
+- title: "Mind the spatiotemporal gap: Skin viscoelasticity limits our perception of discontinuous motion"
+  authors: L. Willemet, B. Cochelin and M. Wiertlewski
+  journal: "Work in progress Worldhaptics 2019"
+  year: 2019
+  pdf: pdf/pub/2019-LW-BC-MW-WIP.pdf
+  image: images/pub/2019-LW-WIP.png
+
+- title: "Interferometric tribometer for high-range/high-bandwidth measurement of tactile force interaction"
+  authors: C. Bernard, J. Monnoyer, S. Ystad, M. Wiertlewski
+  journal: "Work in progress Worldhaptics 2019"
+  year: 2019
+  pdf: pdf/pub/2019-CB-JM-SY-MW-WHC-WIP.pdf
+  image: images/pub/2019-CB-WIP.jpg
+
+
 
 - title: Contact geometry and mechanics predict friction forces during tactile surface exploration
   authors: M. Janko, M. Wiertlewski, Y. Visell
