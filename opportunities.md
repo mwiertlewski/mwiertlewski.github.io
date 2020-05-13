@@ -15,8 +15,6 @@ We are always looking for talented students to join our research group. Feel fre
 1. Continuum Robot for minimally-invasive surgery using Ultrasonic Friction-modulation. [Apply](https://www.academictransfer.com/nl/290582/phd-position-ultrasonic-friction-modulating-catheter/)
 2. 2y Postdoc position in Soft Robotics / Soft Haptics. [email Michael](mailto:m.wiertlewski@tudelft.nl)
 
-
-
 ---
 #### Info for prospective MSc students
 
