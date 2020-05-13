@@ -8,17 +8,15 @@ linkedin: https://www.linkedin.com/in/khoubeib-kanzari-b39640155/
 cv: CV_khoubeib-kanzari.pdf
 address:
   - Biorobotique, Institut des Sciences du Mouvement Etienne-Jules MAREY,
-  - 163 Avenue de Luminy, 13009 Marseille, France 
-
-
+  - 163 Avenue de Luminy, 13009 Marseille, France
 ---
 
 
 ### Research
-As part of the PHASE project "Perception and Handling enabled by Artificial tactile SEnsing" khoubeib kanzari is interested in the human perception of haptic textures in static. 
+As part of the PHASE project "Perception and Handling enabled by Artificial tactile SEnsing" Khoubeib Kanzari is interested in the human perception of haptic textures in static.
 
 
 ### Bio
-A graduate of the National School of Engineering in Tunis, he has been a study and image processing engineer at the Institute of Movement Sciences (ISM) since 2019. 
+A graduate of the National School of Engineering in Tunis, he has been a study and image processing engineer at the Institute of Movement Sciences (ISM) since 2019.
 
 <hr>
