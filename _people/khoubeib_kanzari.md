@@ -17,6 +17,6 @@ As part of the PHASE project "Perception and Handling enabled by Artificial tact
 
 
 ### Bio
-A graduate of the National School of Engineering in Tunis, he has been a study and image processing engineer at the Institute of Movement Sciences (ISM) since 2019.
+A graduate of the National School of Engineering in Tunis, he has been conducting human factor experiments and developed image processing algorithm to study the physics of tactile perception.  Since 2019, he is an engineer at the Institute of Movement Sciences (ISM) .
 
 <hr>

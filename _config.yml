@@ -3,10 +3,10 @@
 # # # # # # # # # # # # # # # # # #
 
 # Basic
-name:               "Mechanical Intelligence Lab"
+name:               "Surface Haptics Lab"
 title:              "Michael Wiertlewski"
 description: >- # this means to ignore newlines until "baseurl:"
-  Everyday we touch a multitude of surfaces around us.
+  Everyone of use constantly touch a multitude of surfaces around us.
   Some surfaces are cold and flat, others might be rough and spherical. In any case
   the perception of their qualities and properties via our sense of touch is paramount for understanding and acting
   on the world around us.
