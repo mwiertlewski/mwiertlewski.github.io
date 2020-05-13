@@ -26,13 +26,13 @@ permalink: /people/
         {% if profile.position == "pi" %}
           Principal Investigator
         {% elsif profile.position == "postdoc" %}
-            PostDocs
+            PostDoc
         {% elsif profile.position == "phdstudent" %}
-            PhD students
+            PhD student
         {% elsif profile.position == "engineer" %}
-                Engineers
+                Engineer
         {% elsif profile.position == "master" %}
-            Master students
+            Master student
 
         {% else %}
           {{profile.position}}
