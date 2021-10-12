@@ -19,6 +19,6 @@ Zhaochong Cai’s current research focuses on achieving superhuman tracking perf
 
 ### Bio
 
-Zhaochong Cai received his Bsc Degree in Optoelectronic Information Engineering in 2017, from Beihang University, China. In 2020, he graduated from Zhejiang University, China with a Msc Degree of Optical Engineering. Since 1st of December, he has been a PhD candidate in the Department of Cognitive Robotics of TU delft.
+Zhaochong Cai received his Bsc Degree in Optoelectronic Information Engineering in 2017, from Beihang University, China. In 2020, he graduated from Zhejiang University, China with a Msc Degree of Optical Engineering. Since 1st of December, he is a PhD candidate in the Department of Cognitive Robotics of TU delft.
 
 <hr>
